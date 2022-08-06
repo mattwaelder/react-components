@@ -1,0 +1,21 @@
+body {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.list {
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+
+}
+.list_item {
+  font-size: 20px;
+  padding: 10px;
+  text-align: left;
+}
